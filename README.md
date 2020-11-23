@@ -1,1 +1,1 @@
-# phpFunProject
+# just a calculator
